@@ -1,0 +1,25 @@
+{
+  "name": "tapi",
+  "version": "0.0.4",
+  "description": "Tiny REST API with JSON format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zedgu/tapi"
+  },
+  "keywords": [
+    "api",
+    "middleware"
+  ],
+  "author": {
+    "name": "Zed Gu"
+  },
+  "license": "BSD",
+  "readme": "API 小玩意儿\n=\n暂时仅支持JSON",
+  "readmeFilename": "README.md",
+  "_id": "express-tapi@0.0.4",
+  "_from": "express-tapi@"
+}
