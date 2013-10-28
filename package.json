@@ -1,6 +1,6 @@
 {
   "name": "tapi",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Tiny RESTful API frameworks bases on express.js",
   "main": "index.js",
   "scripts": {
@@ -26,6 +26,6 @@
   },
   "license": "BSD",
   "readmeFilename": "README.md",
-  "_id": "express-tapi@0.1.0",
+  "_id": "express-tapi@0.1.1",
   "_from": "express-tapi@"
 }
