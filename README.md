@@ -85,6 +85,8 @@
 - will format the 'response' data before res.send(), and will call res.send() automatically
 - support ‘JSON' and 'XML' format, see `Format` below
 
+Samples:
+
     this.send('All done.'); // default code '200', default message see `Default HTTP Status` below
     this.send(404, 'Nothing!');
     this.send(500, 'Errors', 'Wrong URL！')
